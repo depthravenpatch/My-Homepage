@@ -3,11 +3,12 @@ title: "Optimizing Large Language Models for Contextual Reasoning in Multi-Task 
 collection: publications
 category: conferences
 permalink: /publication/2025-07-01-optimizing-llms-contextual-reasoning
-excerpt: 'This paper proposes optimization strategies for LLMs to enhance contextual reasoning across multiple tasks, with empirical results showing superior adaptability in dynamic environments.'
+excerpt: 'This paper explores how to optimize LLMs for contextual reasoning across multi-task settings, introducing a new benchmark and training strategy that improves performance by 15% over baselines.'
 date: 2025-07-01
-venue: 'Under review at COAI 2025 - Conference on Artificial Intelligence'
+venue: 'Accepted to COAI 2026 - Conference on Artificial Intelligence'
 slidesurl: 'http://yourwebsite.com/files/slides-optimizing-llms.pdf'
-paperurl: 'https://example.com/coai-paper'
+paperurl: 'https://openreview.net/forum?id=example456'
+codeurl: 'https://github.com/depthravenpatch/optimizing-llms-contextual-reasoning'
 bibtexurl: 'http://yourwebsite.com/files/bibtex-optimizing-llms.bib'
-citation: 'John Smith, et al. (2025). "Optimizing Large Language Models for Contextual Reasoning in Multi-Task Environments." <i>Under review at COAI 2025 - Conference on Artificial Intelligence</i>.'
+citation: 'John Smith, et al. (2026). "Optimizing Large Language Models for Contextual Reasoning in Multi-Task Environments." &lt;i&gt;Accepted to COAI 2026 - Conference on Artificial Intelligence&lt;/i&gt;.'
 ---
